@@ -4,7 +4,6 @@
 	import { data } from '../data';
 
 	const numberOfPage = Math.ceil(data.length / 9);
-	let page = 0;
 </script>
 
 <div class="no-print">
