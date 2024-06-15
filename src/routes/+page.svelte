@@ -7,7 +7,7 @@
 </script>
 
 <div class="no-print">
-	<div class="p-8 space-x-4">
+	<div class="p-8 flex flex-wrap gap-4">
 		<button
 			type="button"
 			on:click={() => {
