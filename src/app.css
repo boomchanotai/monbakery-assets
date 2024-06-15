@@ -3,6 +3,14 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-	font-family: 'IBM Plex Sans Thai', sans-serif;
+@layer base {
+	* {
+		font-family: 'IBM Plex Sans Thai', sans-serif;
+	}
+
+	@media print {
+		.no-print {
+			display: none !important;
+		}
+	}
 }
