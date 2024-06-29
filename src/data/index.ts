@@ -66,11 +66,6 @@ export const data = [
 		size: 'sm'
 	},
 	{
-		title: 'เม็ดมะม่วงหิมพานต์กรอบแก้ว',
-		price: 130,
-		size: 'sm'
-	},
-	{
 		title: 'ขนมปังเนยสด',
 		price: 20,
 		size: 'sm'
@@ -98,6 +93,26 @@ export const data = [
 	{
 		title: 'เค้กปอนด์',
 		price: 110,
+		size: 'sm'
+	},
+	{
+		title: 'บราวน์นี่นูเทลล่า',
+		price: 55,
+		size: 'sm'
+	},
+	{
+		title: 'คุ้กกี้ช็อกโกแลตชิฟ',
+		price: 30,
+		size: 'sm'
+	},
+	{
+		title: 'ช็อกบอล',
+		price: 30,
+		size: 'sm'
+	},
+	{
+		title: 'เม็ดมะม่วงหิมพานต์กรอบแก้ว',
+		price: 130,
 		size: 'sm'
 	},
 	{
